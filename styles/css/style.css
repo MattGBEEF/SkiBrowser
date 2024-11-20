@@ -845,7 +845,7 @@ body {
 }
 #main-container > .inner > .app-left .header {
   display: flex;
-  background-color: #7794bd;
+  background-color: #c94747;
   flex-wrap: nowrap;
   border-bottom: 1px solid #bbb;
   height: 51px;
@@ -952,14 +952,14 @@ body {
 #main-container > .inner > .app-left .switcher .scroll::-webkit-scrollbar-thumb {
   border-radius: 8px;
   background: rgba(0, 0, 0, 0.6);
-  border: 3px solid #3b495c;
+  border: 3px solid #993434;
 }
 #main-container > .inner > .app-left .switcher .scroll::-webkit-scrollbar-thumb::before {
   content: "";
   display: block;
   width: 5px;
   height: 5px;
-  background-color: #3b495c;
+  background-color: #993434;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .tab-tree .node {
   opacity: 1;
@@ -1100,7 +1100,7 @@ body {
   transform: rotate(90deg);
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .new-tab-button {
-  background-color: #68967b;
+  background-color: #ed6464;
   border: 1px solid #ccc;
   padding: 5px 8px;
   font-size: 12px;
@@ -1112,10 +1112,10 @@ body {
   text-align: center;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .new-tab-button:hover {
-  background-color: #88bf9f;
+  background-color: #f57171;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .child-button {
-  background-color: #68967b;
+  background-color: #ed6464;
   border: 1px solid #ccc;
   padding: 5px 8px;
   font-size: 12px;
@@ -1127,12 +1127,12 @@ body {
   text-align: center;
 }
 #main-container > .inner > .app-left .switcher .scroll .scroll-content .child-button:hover {
-  background-color: #88bf9f;
+  background-color: #f57171;
 }
 #main-container > .inner > .app-right {
   height: 100%;
   flex-grow: 1;
-  background-color: #889dbf;
+  background-color: #d97979;
   position: relative;
 }
 #main-container > .inner > .app-right #welcome {
